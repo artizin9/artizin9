@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Pedro Henrique, a 18-year-old Fullstack Developer from Ceará</h2>
+<h2 align="left">Hi 👋! I'm Pedro Henrique, a 18-year-old Fullstack Developer from Brazil</h2>
 <h3 align="left">Currently doing an internship in Programming 💻</h3>
 
 ###
