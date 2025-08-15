@@ -48,4 +48,5 @@
 
 <br clear="both">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Programming GIF" height="200" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ2ZzUzNW1zeHoyODJjYnZjeHNscnE5NWFuaXp1bG9yMTk5aWVzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="Programming GIF" height="200" />
+
